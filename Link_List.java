@@ -2,7 +2,6 @@ import java.util.*;
 import java.util.Scanner;
 import java.io.*;
 
-//Linked Lists
 
 class Link{
 	int data;
